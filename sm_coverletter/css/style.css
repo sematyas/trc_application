@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+
+body{
+	background: rgba(58, 177, 229,.65);
+
+}
+
+
+h1{
+	font-family: 'Merriweather', serif;
+	text-align: center;
+	font-size: 2.5em;
+	line-height: 1em;
+	color:#242021;
+} 
+
+h3{
+	font-family: 'Merriweather', serif;
+	text-align: center;
+	font-size: 1.5em;
+	line-height:.5em;
+	color:#669933;
+}
+
+h4 {
+	color: white;
+	text-decoration: none;
+	font-size: 1em;
+	margin: 0em;
+}
+
+ a {
+    text-decoration: underline;
+    color: black;
+}
+
+p{
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	margin-right: 6em;
+	margin-left: 6em;
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-align: left;
+	font-size: 16px;
+	line-height: 1.4em;
+	color: #242021;
+}
+
+.point{
+	font-family: 'Merriweather', serif;
+	color:#669933;
+	font-weight: bold;
+	margin-right: 4em;
+	margin-left: 4em;
+
+}
+
+hr{
+	width: 20%;
+	color:#FFCB0A;
+}
+
+#back{
+	background: white;
+	margin: 10em;
+	box-shadow: 1px 1px 15px 1px #101010;
+}
+
+#signature{
+	font-size: 1.4em;
+	font-family: 'Satisfy', cursive;
+}
+
+#act {
+	background-color:#e74c3c; 
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+	padding: 20px 20px;
+	width: 120px;
+	margin: 0 auto;
+	border-radius: 10px;
+}	
+
+footer {
+	background-color: #E5E5E5;
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-align: center;
+	font-size: 14px;
+	line-height: 1.4em;
+	color: #242021;
+
+}
